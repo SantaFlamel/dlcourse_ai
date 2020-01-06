@@ -75,6 +75,7 @@ class KNN:
         for i_test in range(num_test):
             # TODO: Fill the whole row of dists[i_test]
             # without additional loops or list comprehensions
+            #DO SOMETHING
             pass
 
     def compute_distances_no_loops(self, X):
